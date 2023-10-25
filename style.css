@@ -1,0 +1,32 @@
+h1{
+    color: whitesmoke;
+}
+
+.nav li
+{
+    color: aqua;
+    display: inline-block;
+    margin: 10px;
+}
+.header
+{
+    background-color:cadetblue;
+}
+.footer{
+    text-align: center;
+    background-color:cadetblue;
+   
+}
+.info h2{
+    background-color: azure;
+}
+.contact h2{
+    background-color: azure;
+}
+    
+.text img{
+    border-radius: 10px;
+    border: 10px 10px;
+    margin: 10px 10px;
+
+}
